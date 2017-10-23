@@ -1,2 +1,3 @@
-# particles
-Particles sketch using p5.js
+# Particles: Ghost Fire
+
+Sketch of a ghost fire using p5.js.
